@@ -1,6 +1,6 @@
 # ITI - Validação de Senha Forte
 ### Aplicação escrita em Java 8 com Spring na versão 2.4.3
-### Adicionar Springfox Swagger para facilitar a visualização do contrato e testes do serviço
+### Adicionado Springfox Swagger para facilitar a visualização do contrato e testes do serviço
 
 ## Executando a aplicação
 #### Pré Requisito: Docker
